@@ -1,0 +1,13 @@
+.recipe-detail {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .recipe-detail h1 {
+    color: #333;
+  }
+  
+  .recipe-detail p {
+    color: #656565;
+  }
+  

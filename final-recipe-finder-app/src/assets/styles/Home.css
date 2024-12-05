@@ -1,0 +1,28 @@
+.home {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .home h1 {
+    color: #333;
+  }
+  
+  .home p {
+    color: #686;
+  }
+  .home {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .home h1 {
+    color: #333;
+  }
+  
+  .recipe-list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
